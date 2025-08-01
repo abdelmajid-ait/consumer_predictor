@@ -43,7 +43,7 @@ dist/
 *.h5
 
 # Model files
-*.joblib
+#*.joblib
 *.sav
 
 # Google Colab
