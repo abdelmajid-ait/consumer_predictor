@@ -1,0 +1,51 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+ENV/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs and output
+*.log
+*.out
+*.pid
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+# Data files
+*.csv
+*.tsv
+*.dat
+*.data
+*.pkl
+*.h5
+
+# Model files
+*.joblib
+*.sav
+
+# Google Colab
+*.ipynb
+drive/
