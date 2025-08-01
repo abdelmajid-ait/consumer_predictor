@@ -47,5 +47,5 @@ dist/
 *.sav
 
 # Google Colab
-*.ipynb
+#*.ipynb
 drive/
